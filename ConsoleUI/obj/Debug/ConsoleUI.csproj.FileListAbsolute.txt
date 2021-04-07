@@ -1,0 +1,7 @@
+C:\Users\CoPaXoN\source\repos\XOBoard\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\CoPaXoN\source\repos\XOBoard\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\CoPaXoN\source\repos\XOBoard\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\CoPaXoN\source\repos\XOBoard\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\CoPaXoN\source\repos\XOBoard\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\CoPaXoN\source\repos\XOBoard\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\CoPaXoN\source\repos\XOBoard\ConsoleUI\obj\Debug\ConsoleUI.pdb
