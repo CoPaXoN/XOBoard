@@ -27,6 +27,12 @@ namespace ConsoleUI
                 return;
             }
 
+            //checks if valid location
+            if(row >= length || col >= length)
+            {
+                Console.WriteLine("Invalid location");
+            }
+
             //check if location available
             if (board[row, col] != XOSymbols.N)
             {
@@ -65,7 +71,7 @@ namespace ConsoleUI
             }
             count = 0;
 
-            //check up and down
+            //check column
             for (int i = 0; i < length; i++)
             {
                 if (board[i, col] == currentSymbol)
